@@ -58,4 +58,4 @@ The frontend offers intuitive navigation with a home page that immediately displ
 
 In summary, the Application Marketplace represents a successful fusion of functionality and aesthetics, creating a comprehensive platform that meets the needs of users engaged in online commerce. This project demonstrates the effectiveness of the chosen technology stack and the ability to create powerful, user-friendly applications. It provides a solid foundation for future enhancements and evolutions to maintain the platform's relevance and efficiency in the dynamic e-commerce market.
 
-For more details, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
+For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
